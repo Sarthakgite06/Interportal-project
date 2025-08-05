@@ -4,11 +4,11 @@ import { User, Trophy, Gift, Code, DollarSign, Users, Star, LogOut, Home, BarCha
 // Mock Backend API
 const mockAPI = {
   users: [
-    { id: 1, name: 'Alex Johnson', email: 'alex@example.com', referralCode: 'ALEX2025', donationsRaised: 15420, rank: 1 },
-    { id: 2, name: 'Sarah Chen', email: 'sarah@example.com', referralCode: 'SARAH2025', donationsRaised: 12350, rank: 2 },
-    { id: 3, name: 'Mike Rodriguez', email: 'mike@example.com', referralCode: 'MIKE2025', donationsRaised: 9800, rank: 3 },
-    { id: 4, name: 'Emma Wilson', email: 'emma@example.com', referralCode: 'EMMA2025', donationsRaised: 8750, rank: 4 },
-    { id: 5, name: 'David Kim', email: 'david@example.com', referralCode: 'DAVID2025', donationsRaised: 7200, rank: 5 }
+    { id: 1, name: 'Omkar', email: 'omkar@example.com', referralCode: 'OMKAR2025', donationsRaised: 15420, rank: 1 },
+    { id: 2, name: 'Swapnil', email: 'swapnil@example.com', referralCode: 'SWAPY2025', donationsRaised: 12350, rank: 2 },
+    { id: 3, name: 'Prathmesh', email: 'prathmesh@example.com', referralCode: 'PRATHU2025', donationsRaised: 9800, rank: 3 },
+    { id: 4, name: 'Nitin', email: 'nitin@example.com', referralCode: 'AVII2025', donationsRaised: 8750, rank: 4 },
+    { id: 5, name: 'jay Omi', email: 'jay@example.com', referralCode: 'JAY2025', donationsRaised: 7200, rank: 5 }
   ],
   
   rewards: [
